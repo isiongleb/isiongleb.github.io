@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isiongleb.github.io/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/app/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/assets/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/css/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/includes/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/item/sitemap.html.gz
+Sitemap: https://isiongleb.github.io/src/sitemap.html.gz
